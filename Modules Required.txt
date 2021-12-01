@@ -1,0 +1,6 @@
+
+Copy and paste all lines below in command line
+
+pip install tk
+pip install db-sqlite3
+pip install PyMsgBox
